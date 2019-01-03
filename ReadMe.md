@@ -1,14 +1,14 @@
 <img align=center>![](logo.png)</img>
 <div align=center><u>幼麟游戏 让你的棋牌开发、运营更简单</u></div>
 
-<br>
-<br>
+<br><br>
 
 主营业务
 ---
 - 提供成套的（App、H5、小游戏、后台管理、代理系统）棋牌游戏技术解决方案 
 
-<br>
+<br><br>
+
 公司简介
 ---
 &emsp;&emsp;**幼麟棋牌**技术平台是成都幼麟科技有限公司(http://babykylin.com) 开发的一个用于精品棋牌游戏开发的技术框架。
